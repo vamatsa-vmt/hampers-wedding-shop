@@ -19,8 +19,8 @@ class AdminSeeder extends Seeder
             'email' => 'admin@gmail.com',
             'email_verified_at' => now(),
             'password' => Hash::make('rahasia'),
-            'alamat' => 'Ds. Wuluh Kec. Kesamben',
-            'no_telepon' => '085745408225',
+            'alamat' => 'Ds. Durian Kec. Mangga',
+            'no_telepon' => '085353535353',
             'role' => 'Admin',
         ]);
     }

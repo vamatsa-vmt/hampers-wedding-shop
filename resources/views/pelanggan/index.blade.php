@@ -205,7 +205,7 @@
         <div>
             <h4 class="font-bold text-lg mb-4">BLISSBOX</h4>
             <p class="text-gray-600">
-                Jl. Srikaya Babadan No. 35, Wuluh, Kec. Kesamben, Jombang, Jawa Timur 61484
+                Jl. Alpukat No. 35, Jeruk, Kec. Mangga, Manggis, Jawa Timur
             </p>
         </div>
 
@@ -224,7 +224,7 @@
         <div>
             <h4 class="font-bold text-lg mb-4">Kontak Kami</h4>
             <p class="text-gray-600">Email: info@blissbox.com</p>
-            <p class="text-gray-600">Telp: 6285745408225</p>
+            <p class="text-gray-600">Telp: 6285353535353</p>
             <div class="mt-4 flex space-x-4">
                 <a href="" class="text-blue-600 text-xl hover:text-blue-800">
                     <i class="fab fa-facebook-f"></i>
